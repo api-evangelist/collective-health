@@ -1,0 +1,13 @@
+generated: '2026-07-18'
+method: searched
+source: https://collectivehealth.com/trust/
+standards:
+- id: hitrust-r2
+  conforms: true
+  evidence: 'HITRUST Risk-based 2-year (r2) certification; 270 controls across 19 domains (trust page)'
+- id: soc2-type2
+  conforms: true
+  evidence: 'Annual SOC 2 Type II attestation (trust page)'
+- id: hipaa
+  conforms: true
+  evidence: 'Third-party administrator handling PHI; HIPAA compliance stated on trust page'

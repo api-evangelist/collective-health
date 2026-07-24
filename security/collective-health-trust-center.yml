@@ -1,0 +1,21 @@
+generated: '2026-07-18'
+method: searched
+probe: false
+source: https://collectivehealth.com/trust/
+url: https://collectivehealth.com/trust/
+certifications:
+- HITRUST r2
+- SOC 2 Type II
+compliance:
+- HIPAA
+program:
+  hitrust: 'HITRUST Risk-based, 2-year (r2) certification; 270 security controls across 19 domains'
+  soc2: 'Annual SOC 2 Type II attestation'
+  whitepaper: 'Security, Risk, and Compliance Whitepaper available on request via info@collectivehealth.com'
+evidence:
+- source: https://collectivehealth.com/trust/
+  keywords:
+  - hitrust r2
+  - soc 2 type ii
+  - hipaa
+  - trust center
